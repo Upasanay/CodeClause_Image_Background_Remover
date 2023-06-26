@@ -22,7 +22,7 @@ body{
     
 }
 .form-group{
-    height:300px;
+    height:100px;
     padding-top:10px;
     padding-bottom:10px;
 
@@ -39,9 +39,5 @@ body{
 .no{
     font-size:20px;
 }
-.container{
-    height:200px;
-   
-    margin-left:10px;
-}
+
 }
