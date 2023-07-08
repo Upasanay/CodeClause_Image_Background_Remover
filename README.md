@@ -1,5 +1,5 @@
 # CodeClause_Image_Background_Remover
-TASK - 1 (GOLDEN PROJECT) as a part of WEB DEVELOPMENT INTERNSHIP @CodeClause.
+# TASK - 1 (GOLDEN PROJECT) as a part of WEB DEVELOPMENT INTERNSHIP @CodeClause.
 # This is developed with HTML, CSS & JS.
 With this web app, we can remove the background of a picture.
 # I have used Remove.bg API here
